@@ -1,6 +1,16 @@
 # Education System
 
-The Education System project is a comprehensive platform designed to manage various aspects of an educational institution. It caters to users such as administrators, instructors, and students, providing functionalities tailored to their roles and responsibilities.
+Welcome to the Education System project! This comprehensive platform is designed to manage various aspects of an educational institution, catering to users such as administrators, instructors, and students. It provides functionalities tailored to their roles and responsibilities.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Admin](#admin)
+  - [Instructor](#instructor)
+  - [Student](#student)
+- [Contributing](#contributing)
 
 ## Features
 
@@ -18,7 +28,6 @@ The Education System project is a comprehensive platform designed to manage vari
   - Enroll in courses.
   - Access exams.
   - View exam results.
-
 
 ## Installation
 
