@@ -19,12 +19,20 @@ The Education System project is a comprehensive platform designed to manage vari
   - Access exams.
   - View exam results.
 
+Certainly! Here's an updated installation section specifically tailored for setting up a SQL Server database:
+
 ## Installation
 
 1. Clone the repository.
-2. Install dependencies using `npm install` or `yarn install`.
-3. Set up the database with provided scripts or manually configure according to the database management system being used.
+2. Install any required dependencies for the front-end or back-end components.
+3. Set up the SQL Server database:
+   - Create a new database named `EducationSystem`.
+   - Execute provided SQL scripts to create tables (`CREATE TABLE` statements) for departments, courses, classes, users, exams, results, etc.
+   - Populate the tables with sample data if needed.
+   - Configure database connection settings in the application's backend code to connect to your SQL Server instance.
 4. Run the application using `npm start` or `yarn start`.
+
+Ensure that your SQL Server instance is running and accessible, and that the necessary permissions are granted for the application to interact with the database.
 
 ## Usage
 
