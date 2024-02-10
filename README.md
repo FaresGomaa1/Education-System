@@ -19,7 +19,6 @@ The Education System project is a comprehensive platform designed to manage vari
   - Access exams.
   - View exam results.
 
-Certainly! Here's an updated installation section specifically tailored for setting up a SQL Server database:
 
 ## Installation
 
